@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently diving deeper into **DevOps & Cloud**  
-- 🎓 Pursuing **B.Tech CSE @ VIT Andhra Pradesh** (CGPA: `8.14/10`)  
+- 🎓 Pursuing **final year B.Tech Computer science and Engineering @ Vellore Institute of Technology - Andhra Pradesh** (CGPA: `8.14/10`)  
 - 🏆 **GATE 2025 (CS): Score 314, AIR 28736**  
 - 💡 Love solving problems on **LeetCode (100+), HackerRank, CodeChef**  
 - 📫 Reach me at: **allanki.rohit@gmail.com**  
