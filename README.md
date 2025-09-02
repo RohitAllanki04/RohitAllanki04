@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Allanki</h1>
 <h3 align="center">🚀 Java Full Stack Developer | Competitive Coder | AI & Cloud Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+about+Full+Stack+Development;Exploring+AI+%26+Cloud+Technologies;Competitive+Coding+%26+Problem+Solving;Always+Learning+New+Skills+🚀" alt="Typing SVG" />
-</p>
+
 
 ---
 
