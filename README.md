@@ -24,7 +24,7 @@
 ### 🚀 Projects  
 🔹 **[FaceTrace AI](https://github.com/RohitAllanki04/cctvimagerecogination)** – Face Detection & Matching using Python, OpenCV, CLIP  
 🔹 **[Aadhaar-Verified Job Platform](https://github.com/AKHIL-8055/Jobs-Portal-Frontend-v1.0)** – Full-stack Job Portal (Spring Boot + React + SQL + Twilio)  
-&nbsp;&nbsp;&nbsp;&nbsp;Backend: [Link](https://github.com/AKHIL-8055/Jobs-Portal-Backend-v1.0)  
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
