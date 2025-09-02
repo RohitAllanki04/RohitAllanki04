@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Allanki</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Competitive Coder | AI & Cloud Enthusiast</h3>
 
-<!--
-**RohitAllanki04/RohitAllanki04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+about+Full+Stack+Development;Exploring+AI+%26+Cloud+Technologies;Competitive+Coding+%26+Problem+Solving;Always+Learning+New+Skills+🚀" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me  
+- 🌱 Currently diving deeper into **DevOps & Cloud**  
+- 🎓 Pursuing **B.Tech CSE @ VIT Andhra Pradesh** (CGPA: `8.14/10`)  
+- 🏆 **GATE 2025 (CS): Score 314, AIR 28736**  
+- 💡 Love solving problems on **LeetCode (100+), HackerRank, CodeChef**  
+- 📫 Reach me at: **allanki.rohit@gmail.com**  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,redis,js,html,css,git,github,postman,opencv,figma,linux" />
+</p>
+
+---
+
+### 🚀 Projects  
+🔹 **[FaceTrace AI](https://github.com/RohitAllanki04/cctvimagerecogination)** – Face Detection & Matching using Python, OpenCV, CLIP  
+🔹 **[Aadhaar-Verified Job Platform](https://github.com/AKHIL-8055/Jobs-Portal-Frontend-v1.0)** – Full-stack Job Portal (Spring Boot + React + SQL + Twilio)  
+&nbsp;&nbsp;&nbsp;&nbsp;Backend: [Link](https://github.com/AKHIL-8055/Jobs-Portal-Backend-v1.0)  
+
+---
+
+### 📚 Coursework  
+`DSA` • `OOPS` • `Operating Systems` • `DBMS` • `Computer Networks` • `Software Engineering (Agile)` • `Digital Image Processing`
+
+---
+
+### 🏅 Certifications  
+- 🏆 **Enterprise Design Thinking Practitioner – IBM**  
+- ☁️ **Azure AI Fundamentals – Microsoft**  
+- ☁️ **AWS Training and Certification – AWS**  
+
+---
+
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitallanki04&theme=tokyonight" alt="streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitallanki04&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitallanki04&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌍 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/rohitallanki"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://leetcode.com/u/Rohit_allanki/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/></a>
+  <a href="https://www.hackerrank.com/rohit_22bce20057"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40"/></a>
+  <a href="https://www.codechef.com/users/rohitallanki"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="40"/></a>
+  <a href="mailto:allanki.rohit@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+### 🎯 Fun Fact  
+_"Code, Coffee ☕, and Consistency = Success!"_
