@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Allanki</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Competitive Coder | AI & Cloud Enthusiast</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Competitive Coder | Cloud Enthusiast</h3>
 
 
 
