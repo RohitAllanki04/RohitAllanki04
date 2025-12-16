@@ -7,8 +7,8 @@
 
 ### 👨‍💻 About Me   
 - 🎓 Pursuing **final year B.Tech Computer science and Engineering @ Vellore Institute of Technology - Andhra Pradesh** (CGPA: `8.14/10`)  
-- 🏆 **GATE 2025 (CS): Score 314, AIR 28736**  
-- 💡 Love solving problems on **LeetCode (150+), HackerRank, CodeChef**  
+- 🏆 **GATE 2025 (CS): Qualified Students**  
+- 💡 Love solving problems on **LeetCode (170+), HackerRank, CodeChef**  
 - 📫 Reach me at: **allanki.rohit@gmail.com**  
 
 ---
