@@ -18,10 +18,13 @@
 - 📫 Reach me at: **[allanki.rohit@gmail.com](mailto:allanki.rohit@gmail.com)**
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,redis,js,html,css,git,github,postman,opencv,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,mongodb,redis,js,html,css,git,github,postman,opencv,figma,linux" />
 </p>
+
+**Core Skills:** Java, Spring Boot, Spring Cloud, Spring Data JPA, Hibernate, Microservices, Load Balancing, API Gateway, REST APIs, SQL, Frontend Basics, Git/GitHub, Problem Solving, Computer Networks, DBMS, OOPs, System Design
 
 ---
 
