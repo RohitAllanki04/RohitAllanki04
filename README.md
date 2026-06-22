@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rohit Allanki</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Competitive Coder | Cloud Enthusiast</h3>
+<h3 align="center">Java Backend Developer | Full Stack Learner | Competitive Coder | Cloud Enthusiast</h3>
 
+<p align="center">
+  Final-year Computer Science student passionate about building scalable backend systems, solving coding problems, and learning modern software engineering practices.
+</p>
 
 
 ---
 
-### 👨‍💻 About Me   
-- 🎓 Pursuing **final year B.Tech Computer science and Engineering @ Vellore Institute of Technology - Andhra Pradesh** (CGPA: `8.20/10`)  
-- 🏆 **GATE 2025 (CS): Qualified Students**  
-- 💡 Love solving problems on **LeetCode (190+), HackerRank, CodeChef**  
-- 📫 Reach me at: **allanki.rohit@gmail.com**  
+## 👨‍💻 About Me
 
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **Vellore Institute of Technology - Andhra Pradesh**
+- 📈 Current CGPA: **8.20/10**
+- 🏆 **GATE 2025 (CS): Qualified**
+- 💡 Solving problems on **LeetCode, HackerRank, and CodeChef**
+- 🌱 Currently learning **Spring Boot, Microservices, System Design, and Cloud**
+- 📫 Reach me at: **[allanki.rohit@gmail.com](mailto:allanki.rohit@gmail.com)**
 ---
 
 ### 🛠️ Tech Stack  
@@ -20,22 +25,38 @@
 
 ---
 
-### 🚀 Project
-🔹 **[Verified Job Platform](https://github.com/AKHIL-8055/Jobs-Portal-Frontend-v1.0)** – Full-stack Job Portal (Spring Boot + React + SQL + Twilio)  
-&nbsp;&nbsp;&nbsp;&nbsp;
+## 🚀 Featured Projects
+
+### 🔹 [IdentityReconciliation](https://github.com/RohitAllanki04/IdentityReconciliation)
+Identity reconciliation service built with Spring Boot — links customer contacts across multiple purchases using email and phone number to prevent duplication and enable consistent identity representation.[web:13][web:21]
+
+### 🔹 [Jobs-Portal-Backend-v1.0](https://github.com/RohitAllanki04/Jobs-Portal-Backend-v1.0)
+Backend service for a job portal platform built with Java and Spring Boot — handles job listings, user authentication, and application workflows.[web:18]
+
+### 🔹 [Quiz-microservices](https://github.com/RohitAllanki04/Quiz-microservices)
+Microservices-based quiz application refactored into modular backend architecture — consists of separate services for quiz management and quiz execution using Java/Spring Boot.[web:19]
+
+### 🔹 [Github-access-report-project](https://github.com/RohitAllanki04/Github-access-report-project)
+Spring Boot service that connects to GitHub API and generates a structured JSON report of user repository access within an organization — useful for access auditing and analytics.[web:13][web:21]
 
 ---
 
 ### 📚 Coursework  
-`DSA` • `OOPS` • `Operating Systems` • `DBMS` • `Computer Networks` • `Software Engineering (Agile)` • `Digital Image Processing`
+`DSA` • `OOPS` • `Operating Systems` • `DBMS` • `Computer Networks` • `Software Engineering (Agile)` 
 
 ---
 
-### 🏅 Certifications  
-- 🏆 **Enterprise Design Thinking Practitioner – IBM**  
-- ☁️ **Azure AI Fundamentals – Microsoft**  
-- ☁️ **AWS Training and Certification – AWS**  
+## 🏅 Certifications
 
+- 🏆 **Enterprise Design Thinking Practitioner – IBM**
+- ☁️ **Azure AI Fundamentals – Microsoft**
+- ☁️ **AWS Training and Certification – AWS**
+- 💻 **Infosys Springboard Certifications:**
+  - Java Foundation
+  - Programming using Java
+  - DBMS
+  - Data Structures & Algorithms using Java
+- 🗄️ **MongoDB Associate Database Administrator – MongoDB**
 ---
 
 ### 📊 GitHub Analytics  
