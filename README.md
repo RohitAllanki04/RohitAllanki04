@@ -13,34 +13,34 @@
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **Vellore Institute of Technology - Andhra Pradesh**
 - 📈 Current CGPA: **8.20/10**
 - 🏆 **GATE 2025 (CS): Qualified**
-- 💡 Solving problems on **LeetCode, HackerRank, and CodeChef**
-- 🌱 Currently learning **Spring Boot, Microservices, System Design, and Cloud**
+- 💡 Solving problems on **LeetCode, HackerRank, and CodeChef**(300+ problems)
+- 🌱 Currently in Path of **Spring Boot, Microservices, System Design, and Cloud**
 - 📫 Reach me at: **[allanki.rohit@gmail.com](mailto:allanki.rohit@gmail.com)**
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,mongodb,redis,js,html,css,git,github,postman,opencv,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,mongodb,redis,js,html,css,git,github,postman,opencv,figma,linux,docker" />
 </p>
 
-**Core Skills:** Java, Spring Boot, Spring Cloud, Spring Data JPA, Hibernate, Microservices, Load Balancing, API Gateway, REST APIs, SQL, Frontend Basics, Git/GitHub, Problem Solving, Computer Networks, DBMS, OOPs, System Design
+**Core Skills:** Java, Spring Boot, Spring Cloud, Spring Data JPA, Hibernate, Microservices, Load Balancing, API Gateway, REST APIs, SQL, Frontend Basics, Git/GitHub, Problem Solving, Computer Networks, DBMS, OOPs, System Design,Docker
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 [IdentityReconciliation](https://github.com/RohitAllanki04/IdentityReconciliation)
-Identity reconciliation service built with Spring Boot — links customer contacts across multiple purchases using email and phone number to prevent duplication and enable consistent identity representation.[web:13][web:21]
+Identity reconciliation service built with Spring Boot — links customer contacts across multiple purchases using email and phone number to prevent duplication and enable consistent identity representation.
 
 ### 🔹 [Jobs-Portal-Backend-v1.0](https://github.com/RohitAllanki04/Jobs-Portal-Backend-v1.0)
-Backend service for a job portal platform built with Java and Spring Boot — handles job listings, user authentication, and application workflows.[web:18]
+Backend service for a job portal platform built with Java and Spring Boot — handles job listings, user authentication, and application workflows.
 
 ### 🔹 [Quiz-microservices](https://github.com/RohitAllanki04/Quiz-microservices)
-Microservices-based quiz application refactored into modular backend architecture — consists of separate services for quiz management and quiz execution using Java/Spring Boot.[web:19]
+Microservices-based quiz application refactored into modular backend architecture — consists of separate services for quiz management and quiz execution using Java/Spring Boot.
 
 ### 🔹 [Github-access-report-project](https://github.com/RohitAllanki04/Github-access-report-project)
-Spring Boot service that connects to GitHub API and generates a structured JSON report of user repository access within an organization — useful for access auditing and analytics.[web:13][web:21]
+Spring Boot service that connects to GitHub API and generates a structured JSON report of user repository access within an organization — useful for access auditing and analytics.
 
 ---
 
