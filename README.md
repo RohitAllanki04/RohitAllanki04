@@ -14,7 +14,7 @@
 - 📈 Current CGPA: **8.20/10**
 - 🏆 **GATE 2025 (CS): Qualified**
 - 💡 Solving problems on **LeetCode, HackerRank, and CodeChef**(300+ problems)
-- 🌱 Currently in Path of **Spring Boot, Microservices, System Design, and Cloud**
+- 🌱 Currently in the Path of **Spring Boot, Microservices, System Design, and Cloud**
 - 📫 Reach me at: **[allanki.rohit@gmail.com](mailto:allanki.rohit@gmail.com)**
 ---
 
