@@ -62,13 +62,17 @@ Spring Boot service that connects to GitHub API and generates a structured JSON 
 - 🗄️ **MongoDB Associate Database Administrator – MongoDB**
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Stats
+ 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitallanki04&theme=tokyonight" alt="streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitallanki04&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitallanki04&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitallanki04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitallanki04&theme=tokyonight&hide_border=true" alt="streak stats" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitallanki04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitallanki04&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
